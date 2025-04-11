@@ -160,4 +160,5 @@ if __name__ == "__main__":
     similar_groups = group_similar_questions(all_questions, similarity_threshold=0.75)
     display_question_groups(similar_groups)
     display_unmatched(similar_groups, all_questions)
+    print("complete")
 
