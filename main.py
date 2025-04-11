@@ -161,4 +161,3 @@ if __name__ == "__main__":
     display_question_groups(similar_groups)
     display_unmatched(similar_groups, all_questions)
 
-   print("")
